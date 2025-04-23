@@ -1,0 +1,6 @@
+#define HANDLE_CLEAR_KV_FLASH                                3
+#define HANDLE_CLEAR_KV_FLASH_CLIENT_CHAR_CONFIG             4
+
+#define HANDLE_CLEAR_KV_FLASH_OFFSET                         73
+#define HANDLE_CLEAR_KV_FLASH_CLIENT_CHAR_CONFIG_OFFSET      81
+
